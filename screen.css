@@ -1,1 +1,29 @@
 /* Add screen styles below */
+body {
+    background-color: #1E1E1E;
+    margin-top: 100px;
+}
+.card {
+    background: white;
+    color: #1E1E1E;
+    margin: 0 auto;
+    width: 500px;
+    height: 300px;
+    border-radius: 10px;
+}
+h1 {
+    background: #366E3C ;
+    color: white;
+    padding: 20px;
+    margin: 0;
+    border-radius: 10px 10px 0 0;
+    box-shadow: 0 0 30px rgba(0,0,0,0.);
+}
+.card div {
+    padding: 20px;
+}
+img {
+    float: left;
+    margin-right: 30px;
+}
+
